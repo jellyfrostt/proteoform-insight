@@ -1,0 +1,4 @@
+streamlit>=1.44
+openms-insight>=0.1.4
+polars>=1.0
+numpy>=1.24
